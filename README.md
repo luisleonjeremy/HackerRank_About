@@ -74,9 +74,9 @@ Como conclusión a este artículo, es de destacar que esta página difiere de Ex
 
 Enlaces de interés:
 
-[HackerRank](www.hackerrank.com)
+[HackerRank](https://www.hackerrank.com)
 
-[Exercism.io](www.exercism.io)
+[Exercism.io](https://exercism.io)
 
 [Recursos de HackerRank](https://www.hackerrank.com/resources/?h_r=developer_skills_platform&h_l=header#guides)
 
