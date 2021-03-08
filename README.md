@@ -9,7 +9,7 @@
 * [Conclusiones y enlaces de interés](#id3)
 
 <a name="id0"></a>
-**Página web**
+**Acerca de**
 
 HackerRank surge como una página web para ampliar nuestros conocimientos de programación e informática, pues podemos pasar de C, C++, Ruby a DataBases, SQL, LinuxShell, etc.
 
